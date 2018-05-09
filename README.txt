@@ -4,10 +4,12 @@ The creator will not be responsible for any harm done with this tool.
 -----------------------------------------------------------------------------------------------------------------------
 How to use:-
 ----------------
+First extract "Phishing_sites" folder
+Then.....
 1.Open your terminal and navigate to the folder where this tool is 
 present.
 
-2.Type :- chmod +x
+2.Type :- chmod +x *
 
 3.Type the following commands serially(Only statements between ""):-
 "Python account.py"(For creating SMTP2go account).
