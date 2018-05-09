@@ -1,0 +1,7 @@
+/root/Desktop/PhishingTrap/phishing_sites/fb_phish
+/root/Desktop/PhishingTrap/phishing_sites/Instagram_phish
+/root/Desktop/PhishingTrap/phishing_sites/github_phish
+/root/Desktop/PhishingTrap/phishing_sites/gmail_phish
+/root/Desktop/PhishingTrap/phishing_sites/linkedin_phish
+/root/Desktop/PhishingTrap/phishing_sites/twitter_phish
+/root/Desktop/PhishingTrap/phishing_sites/wordpress_phish
